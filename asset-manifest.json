@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Monters-Roldex/static/css/main.24e4f581.chunk.css",
+    "main.js": "/Monters-Roldex/static/js/main.18ab9be4.chunk.js",
+    "main.js.map": "/Monters-Roldex/static/js/main.18ab9be4.chunk.js.map",
+    "runtime-main.js": "/Monters-Roldex/static/js/runtime-main.8050d2a1.js",
+    "runtime-main.js.map": "/Monters-Roldex/static/js/runtime-main.8050d2a1.js.map",
+    "static/js/2.e75e7b3e.chunk.js": "/Monters-Roldex/static/js/2.e75e7b3e.chunk.js",
+    "static/js/2.e75e7b3e.chunk.js.map": "/Monters-Roldex/static/js/2.e75e7b3e.chunk.js.map",
+    "static/js/3.cfea3fee.chunk.js": "/Monters-Roldex/static/js/3.cfea3fee.chunk.js",
+    "static/js/3.cfea3fee.chunk.js.map": "/Monters-Roldex/static/js/3.cfea3fee.chunk.js.map",
+    "index.html": "/Monters-Roldex/index.html",
+    "static/css/main.24e4f581.chunk.css.map": "/Monters-Roldex/static/css/main.24e4f581.chunk.css.map",
+    "static/js/2.e75e7b3e.chunk.js.LICENSE.txt": "/Monters-Roldex/static/js/2.e75e7b3e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8050d2a1.js",
+    "static/js/2.e75e7b3e.chunk.js",
+    "static/css/main.24e4f581.chunk.css",
+    "static/js/main.18ab9be4.chunk.js"
+  ]
+}
